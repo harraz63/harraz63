@@ -1,111 +1,160 @@
-<h1 align="center"><b>Hi , I'm Ahmed Harraz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Back-End+Developer+(Node.js%2C+Express%2C+NestJS);Front-End+Experience+with+React;Building+Scalable+%26+Secure+APIs;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm Ahmed Harraz
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Back-End+Developer+%F0%9F%9A%80;Node.js+%7C+Express+%7C+NestJS;Building+Scalable+APIs;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+[![Profile Views](https://komarev.com/ghpvc/?username=harraz63&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/harraz63)
 
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
-- 🔭 Currently working on **developing RESTful APIs** using **Node.js**, **Express.js**, and **NestJS**  
-- 🌱 Learning **advanced backend architecture** and **NestJS best practices**  
-- 👯 Looking to collaborate on **backend or full-stack projects (Node.js + React)**  
-- 💬 Ask me about **Node.js, Express.js, REST APIs, NestJS, or backend development**  
-- 📫 Reach me at **aharraz63hid@gmail.com**  
-- ⚡ Fun fact: *I love optimizing code and transforming complex challenges into simple, scalable solutions.*
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"><b> Skills</b>
-<br>
-
-<p align="center">
-
-### 🖥️ **Back-End Development**
-
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23007396.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Helmet](https://img.shields.io/badge/Helmet-%23000000.svg?style=for-the-badge&logo=helmet&logoColor=white)
-![CORS](https://img.shields.io/badge/CORS-%23007396.svg?style=for-the-badge&logo=web&logoColor=white)
-![Validation](https://img.shields.io/badge/Validation-%2300C853.svg?style=for-the-badge&logo=validator&logoColor=white)
-![Error Handling](https://img.shields.io/badge/Error_Handling-%23FF7043.svg?style=for-the-badge)
-![Rate Limiting](https://img.shields.io/badge/Rate_Limiting-%23007396.svg?style=for-the-badge)
-![Authentication](https://img.shields.io/badge/Authentication-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)
-
-<br>
-
-### ⚛️ **Front-End Development**
-
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-### 🛠️ **Tools & Platforms**
-
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%23054020.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-</p>
-
----
-
-## <b> Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-<div align='left'>
-
-<ul>
-<li>
-<a href="mailto:aharraz63hid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail:-Ahmed%20Harraz-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail style="margin-bottom: 5px;" />
-</a>
-</li>
-
-<li>
-<a href="https://www.linkedin.com/in/ahmed-harraz/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn:-Ahmed%20Harraz-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="https://x.com/harrazah" target="_blank">
-<img src="https://img.shields.io/badge/X(Twitter):-@harrazah-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="https://www.instagram.com/harrazah/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram:-@harrazah-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-</ul>
 </div>
 
 ---
 
-**Credit:** [Ahmed Harraz](https://github.com/harraz63)  
-**Last Edited on:** 30/10/2025
+## 🚀 About Me
+
+```typescript
+const ahmed = {
+    role: "Backend Developer",
+    location: "Egypt 🇪🇬",
+    focus: ["Node.js", "NestJS", "Express.js"],
+    currentlyLearning: "Advanced Backend Architecture & Microservices",
+    lookingToCollaborate: "Full-Stack Projects (Node.js + React)",
+    funFact: "I turn complex problems into elegant solutions ✨"
+};
+```
+
+<details>
+<summary>📊 More About Me</summary>
+
+- 🔭 Currently working on **developing RESTful APIs** with modern backend frameworks
+- 🌱 Deep diving into **NestJS best practices** and **scalable architecture**
+- 👯 Open to collaborate on **backend or full-stack projects**
+- 💬 Ask me about **Node.js, Express, REST APIs, Database Design**
+- 📫 Reach me: **aharraz63hid@gmail.com**
+- ⚡ Passion: Optimizing code & building robust systems
+
+</details>
+
+---
+
+## 💼 Backend Development Highlights
+
+```javascript
+// Professional API Architecture
+class BackendDeveloper {
+  constructor() {
+    this.name = "Ahmed Harraz";
+    this.expertise = ["REST APIs", "Authentication", "Database Design"];
+  }
+
+  async buildSecureAPI() {
+    const api = new Express();
+    
+    // Security middleware
+    api.use(helmet());
+    api.use(rateLimit({ windowMs: 15 * 60 * 1000, max: 100 }));
+    api.use(cors({ origin: process.env.ALLOWED_ORIGINS }));
+    
+    // Authentication
+    api.use(authenticate);
+    api.use(authorize(['admin', 'user']));
+    
+    // Error handling
+    api.use(errorHandler);
+    
+    return api;
+  }
+
+  async optimizeDatabase() {
+    // Indexing for performance
+    await Model.createIndex({ userId: 1, createdAt: -1 });
+    
+    // Aggregation pipelines
+    const analytics = await Model.aggregate([
+      { $match: { status: 'active' } },
+      { $group: { _id: '$category', total: { $sum: 1 } } },
+      { $sort: { total: -1 } }
+    ]);
+    
+    return analytics;
+  }
+}
+
+// Clean, Scalable, Production-Ready Code ✨
+```
+
+---
+
+### Backend Development
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+### Databases & ORMs
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
+
+### Authentication & Security
+<p>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+<img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
+<img src="https://img.shields.io/badge/Helmet-000000?style=for-the-badge&logo=helmet&logoColor=white" alt="Helmet"/>
+<img src="https://img.shields.io/badge/Rate_Limiting-FF6B6B?style=for-the-badge&logo=security&logoColor=white" alt="Rate Limiting"/>
+</p>
+
+### Frontend Technologies
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+</p>
+
+### Real-time & APIs
+<p>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
+
+
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aharraz63hid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-harraz/)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/harrazah)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harrazah/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+
+**⭐️ From [Ahmed Harraz](https://github.com/harraz63) | Last Updated: October 30, 2025**
+
+</div>
