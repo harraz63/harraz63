@@ -16,8 +16,6 @@
 
 - ⚡ Fun fact **I love optimizing code and transforming complex challenges into simple, effective solutions.**
 
-- 👨‍💻 All of my projects are available at **[https://ahmed-harraz-portfolio.vercel.app/](https://ahmed-harraz-portfolio.vercel.app/)**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1A2bANDZZjpEtcPr_2WJm39xZYGK0_nXw/view?usp=sharing](https://drive.google.com/file/d/1A2bANDZZjpEtcPr_2WJm39xZYGK0_nXw/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
