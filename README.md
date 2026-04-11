@@ -31,7 +31,7 @@ const ahmed = {
 - 👯 Open to collaborate on **backend or full-stack projects**
 - 💬 Ask me about **Node.js, Express, REST APIs, Database Design**
 - 📫 Reach me: **aharraz63hid@gmail.com**
-- 📄 Check out my **[Resume](https://drive.google.com/file/d/1A2bANDZZjpEtcPr_2WJm39xZYGK0_nXw/view?usp=sharing)**
+- 📄 Check out my **[Resume](https://drive.google.com/file/d/1yB0qe1ERDhZd1wwguFE2mtYeQocN2wlr/view?usp=sharing)**
 - ⚡ Passion: Optimizing code & building robust systems
 
 </details>
