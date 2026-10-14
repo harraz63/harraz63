@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="250" viewBox="0 0 960 250" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Harraz — Node.js Backend Developer</title>
+  <desc id="desc">Secure APIs. Clear architecture. Reliable systems.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111c2d"/>
+      <stop offset="1" stop-color="#09121f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#64dfb3"/>
+      <stop offset="1" stop-color="#67b8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="250" rx="16" fill="url(#background)"/>
+  <rect x="1" y="1" width="958" height="248" rx="15" fill="none" stroke="#29364a"/>
+  <path d="M650 0V250M730 0V250M810 0V250M890 0V250M610 45H960M610 125H960M610 205H960" stroke="#203047" opacity=".55"/>
+  <rect x="44" y="42" width="34" height="4" rx="2" fill="url(#accent)"/>
+  <text x="44" y="80" fill="#81dac0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="2">NODE.JS BACKEND DEVELOPER</text>
+  <text x="42" y="132" fill="#f0f5fc" font-family="Segoe UI, Arial, sans-serif" font-size="43" font-weight="700">Ahmed Harraz</text>
+  <text x="44" y="170" fill="#b7c6d9" font-family="Segoe UI, Arial, sans-serif" font-size="17">Secure APIs. Clear architecture. Reliable systems.</text>
+  <text x="44" y="209" fill="#7f95ad" font-family="Segoe UI, Arial, sans-serif" font-size="14">NestJS  /  Express.js  /  TypeScript</text>
+  <rect x="646" y="62" width="269" height="126" rx="10" fill="#111e30" stroke="#33475f"/>
+  <circle cx="666" cy="81" r="4" fill="#64dfb3"/>
+  <circle cx="681" cy="81" r="4" fill="#67b8ff"/>
+  <circle cx="696" cy="81" r="4" fill="#586e88"/>
+  <path d="M646 96H915" stroke="#33475f"/>
+  <text x="665" y="126" fill="#64dfb3" font-family="Consolas, monospace" font-size="15">GET <tspan fill="#cbd9e9">/api/hello</tspan></text>
+  <text x="665" y="156" fill="#89a9cb" font-family="Consolas, monospace" font-size="14">200 <tspan fill="#cbd9e9">{ "status": "ok" }</tspan></text>
+</svg>
