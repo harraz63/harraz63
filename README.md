@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-harraz-b52197268/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="Connect on LinkedIn" /></a>
   <a href="mailto:aharraz63hid@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-168B75?style=flat-square" alt="Email Ahmed" /></a>
+  <a href="https://github.com/harraz63/harraz63/blob/main/assets/Ahmed-Harraz-CV.pdf"><img src="https://img.shields.io/badge/CV-View%20PDF-5965DE?style=flat-square" alt="View Ahmed's CV" /></a>
 </p>
 
 ## Hi, I'm Ahmed 👋
