@@ -30,11 +30,15 @@ Currently a **Backend Developer at Penta-K**, previously at **Travolic**.
 
 ## Main project
 
+*These projects are maintained in private repositories. The summaries below highlight my backend contributions.*
+
 ### Call99 — Automotive Services Marketplace
 
-A backend for car wash, roadside assistance, towing, and car rental, with secure payments, background workers, real-time tracking, and chat.
+A backend for car wash, roadside assistance, towing, and car rental, with Paymob payments, background workers, real-time tracking, and chat.
 
 **NestJS · TypeScript · PostgreSQL · TypeORM · Redis · BullMQ · Socket.IO · Paymob**
+
+[API documentation — Swagger (development)](https://back-dev-call99.penta-k.com/api/docs)
 
 ## Other projects
 
