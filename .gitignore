@@ -1,2 +1,10 @@
-config.bat
 node_modules
+
+# Keep real environment credentials local; allow documented examples.
+!.env.example
+!.env.*.example
+!.env.sample
+!.env.*.sample
+!.env.template
+!.env.*.template
+config.bat
